@@ -1,0 +1,5 @@
+READ ME
+-------------
+Location aware Foursquare web app based on HTML5 geo-coding API and built with PHP.
+
+oAuth part of the app uses lib-oAuth library by Cal Henderson
